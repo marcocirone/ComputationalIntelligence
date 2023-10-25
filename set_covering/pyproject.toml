@@ -6,8 +6,9 @@ authors = ["MarcoCirone00 <s314878@studenti.polito.it>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = ">=3.12,<3.13"
 ipykernel = "^6.25.2"
+numpy = "^1.26.1"
 
 
 [build-system]
