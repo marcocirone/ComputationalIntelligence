@@ -1,0 +1,31 @@
+Steepest-step
+
+Interruption at the 507-th step
+density: 0.3, num_sets: 100
+Acceptable solution: True, #tiles: 8
+Number of calls to fitness function: 5081
+
+Interruption at the 511-th step
+density: 0.3, num_sets: 1000
+Acceptable solution: True, #tiles: 12
+Number of calls to fitness function: 5121
+
+Interruption at the 518-th step
+density: 0.3, num_sets: 5000
+Acceptable solution: True, #tiles: 18
+Number of calls to fitness function: 5191
+
+Interruption at the 502-th step
+density: 0.7, num_sets: 100
+Acceptable solution: True, #tiles: 3
+Number of calls to fitness function: 5031
+
+Interruption at the 504-th step
+density: 0.7, num_sets: 1000
+Acceptable solution: True, #tiles: 5
+Number of calls to fitness function: 5051
+
+Interruption at the 505-th step
+density: 0.7, num_sets: 5000
+Acceptable solution: True, #tiles: 6
+Number of calls to fitness function: 5061

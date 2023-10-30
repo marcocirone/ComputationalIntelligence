@@ -1,0 +1,31 @@
+Tabu search
+
+Stop at the 507-th step
+density: 0.3, num_sets: 100
+Acceptable solution: True, #tiles: 8
+Number of calls to fitness function: 5588
+
+Stop at the 511-th step
+density: 0.3, num_sets: 1000
+Acceptable solution: True, #tiles: 12
+Number of calls to fitness function: 5632
+
+Stop at the 518-th step
+density: 0.3, num_sets: 5000
+Acceptable solution: True, #tiles: 19
+Number of calls to fitness function: 5709
+
+Stop at the 502-th step
+density: 0.7, num_sets: 100
+Acceptable solution: True, #tiles: 3
+Number of calls to fitness function: 5533
+
+Stop at the 504-th step
+density: 0.7, num_sets: 1000
+Acceptable solution: True, #tiles: 5
+Number of calls to fitness function: 5555
+
+Stop at the 505-th step
+density: 0.7, num_sets: 5000
+Acceptable solution: True, #tiles: 6
+Number of calls to fitness function: 5566

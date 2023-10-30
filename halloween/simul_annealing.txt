@@ -1,0 +1,31 @@
+Simulated_annealing
+
+Interruption at the 1481-th step
+density: 0.3, num_sets: 100
+Acceptable solution: True, #tiles: 7
+Number of calls to fitness function: 1483
+
+Interruption at the 844-th step
+density: 0.3, num_sets: 1000
+Acceptable solution: True, #tiles: 14
+Number of calls to fitness function: 846
+
+Interruption at the 579-th step
+density: 0.3, num_sets: 5000
+Acceptable solution: True, #tiles: 23
+Number of calls to fitness function: 581
+
+Interruption at the 646-th step
+density: 0.7, num_sets: 100
+Acceptable solution: True, #tiles: 3
+Number of calls to fitness function: 648
+
+Interruption at the 1505-th step
+density: 0.7, num_sets: 1000
+Acceptable solution: True, #tiles: 5
+Number of calls to fitness function: 1507
+
+Interruption at the 686-th step
+density: 0.7, num_sets: 5000
+Acceptable solution: True, #tiles: 9
+Number of calls to fitness function: 688
