@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "quixo"
+version = "0.1.0"
+description = ""
+authors = ["MarcoCirone00 <s314878@studenti.polito.it>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy = "^1.26.2"
+ipykernel = "^6.27.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
