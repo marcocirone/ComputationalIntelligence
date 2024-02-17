@@ -7,10 +7,12 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-numpy = "^1.26.2"
-ipykernel = "^6.27.1"
+numpy = "^1.26.4"
 tqdm = "^4.66.1"
 
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.2"
 
 [build-system]
 requires = ["poetry-core"]
